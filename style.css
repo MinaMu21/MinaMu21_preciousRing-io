@@ -1,0 +1,164 @@
+/* CSS  */
+
+/* Body */
+
+@font-face {
+    font-family: 'Party-Business';
+    src: url('http://www.fontspace.com/nancy-lorenz/party-business?text=');
+}
+
+
+.bg-clair {
+    background-image: url("integration_maquette_finale/bg_light.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: -25px;
+}
+
+
+/*  Navbar */
+
+.navbar-nav>li>a:hover {
+    border-bottom: 3px solid #ffffff;
+    font-weight: bold;
+    color: #ffffff;
+
+}
+
+
+.navbar-nav {
+
+    font-family: 'Aniron', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 0px;
+}
+
+
+.colorOrange {
+
+    background-color: #f76b0e;
+
+}
+
+
+/* footer */
+
+footer {
+
+    font-family: 'Aniron', sans-serif;
+}
+
+/* Ligne My Precious */
+
+/* ---  Ring --- */
+
+.circleTwin {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #f76b0e;
+    margin-top: 70px;
+    box-shadow: inset 5 0 5px, outset 5 0 5px;
+    -webkit-border-radius: 200%;
+    -moz-border-radius: 200%;
+    -o-border-radius: 200%;
+    border-radius: 200%;
+  }
+
+  .circleBig {
+    width: 180px;
+    height: 180px;
+    border: 12px solid #FFD700;
+    box-shadow: inset 5px 5px 5px 0px #DAA520, 5px 5px 5px 0px #DAA520;
+    -webkit-border-radius: 200%;
+    -moz-border-radius: 200%;
+    -o-border-radius: 200%;
+    border-radius: 200%;
+  }
+
+/* ---  Texte --- */
+
+
+.texte {
+    font-size: 35px;
+    color: #000000;
+    font-weight: bold;
+    margin-top: 70px;
+    font-family: "Aniron", sans-serif;
+    padding-left: 30px;
+  }
+
+  /* --- Loop ___*/
+
+  .circleLoop-1 {
+  width: 40px;
+  height: 40px;
+  border: 7px solid #696969;
+  box-shadow: inset 5px 5px 5px 0px #000000, 5px 5px 5px 0px #000000;
+  margin-left: -7px;
+  -webkit-border-radius: 200%;
+  -moz-border-radius: 200%;
+  -o-border-radius: 200%;
+  border-radius: 200%;
+}
+
+.circleLoop-2 {
+  width: 50px;
+  height: 50px;
+  border: 7px solid #696969;
+  box-shadow: inset 5px 5px 5px 0px #000000, 5px 5px 5px 0px #000000;
+  margin-left: -14px;
+  -webkit-border-radius: 200%;
+  -moz-border-radius: 200%;
+  -o-border-radius: 200%;
+  border-radius: 200%;
+}
+
+.circleLoop-3 {
+  width: 60px;
+  height: 60px;
+  border: 7px solid #696969;
+  box-shadow: inset 5px 5px 5px 0px #000000, 5px 5px 5px 0px #000000;
+  margin-left: -21px;
+  -webkit-border-radius: 200%;
+  -moz-border-radius: 200%;
+  -o-border-radius: 200%;
+  border-radius: 200%;
+}
+
+.circleLoop-4 {
+  width: 70px;
+  height: 70px;
+  border: 7px solid #696969;
+  box-shadow: inset 5px 5px 5px 0px #000000, 5px 5px 5px 0px #000000;
+  margin-left: -28px;
+  -webkit-border-radius: 200%;
+  -moz-border-radius: 200%;
+  -o-border-radius: 200%;
+  border-radius: 200%;
+}
+
+.circleLoop-5 {
+  width: 80px;
+  height: 80px;
+  border: 7px solid #696969;
+  box-shadow: inset 5px 5px 5px 0px #000000, 5px 5px 5px 0px #000000;
+  margin-left: -35px;
+  -webkit-border-radius: 200%;
+  -moz-border-radius: 200%;
+  -o-border-radius: 200%;
+  border-radius: 200%;
+}
+
+.circleLoop-6 {
+  width: 90px;
+  height: 90px;
+  border: 7px solid #696969;
+  box-shadow: inset 5px 5px 5px 0px #000000, 5px 5px 5px 0px #000000;
+  margin-left: -42px;
+  -webkit-border-radius: 200%;
+  -moz-border-radius: 200%;
+  -o-border-radius: 200%;
+  border-radius: 200%;
+}
+ 
